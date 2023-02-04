@@ -1,0 +1,70 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    
+}
+
+*{
+    box-sizing: border-box;  
+}
+
+ .container{
+    line-height: 30px;
+    max-width: 990px;
+    margin: 0 auto;
+    
+     
+}
+
+.image{
+    width: 100%;
+}
+
+.images{
+    display: flex;
+     gap: 35px;
+     width: 100%;
+     
+}
+
+ .cta-block{
+    padding: 30px;
+    background-color: rgb(17, 155, 201);
+    width: 100%;
+    color: white;
+    font-size: 30px;
+    
+    }
+
+ 
+
+h4{
+    font-weight: 300;
+    font-size: 14px;
+     
+}
+
+.btn{
+    
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    
+
+}
+
+button{
+    width: 200px;
+    height: 45px;
+    color: rgb(17, 155, 235);
+    
+
+      
+}
+
+
+
+   
+
+ 
+ 
